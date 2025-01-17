@@ -1,1 +1,1 @@
- lab-1 -https://juncsh.github.io/calculator/
+ lab-1 -https://juncsh.github.io/calculator/calculator.html
